@@ -7,17 +7,16 @@
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)-->
+
+## About me
+
 <div align = "justify">
-Hi!
-I'm Alejandra from Chile, an electrical engineer transitioning into software development. Over the past year, I’ve designed RESTful APIs with Spring Boot, managed SQL databases, and created dynamic interfaces using HTML, CSS, JavaScript, and React.
+I´m an electrical engineer transitioning into software development. Over the past year, I’ve designed RESTful APIs with Spring Boot, managed SQL databases, and created dynamic interfaces using HTML, CSS, JavaScript, and React.
 
 For me, every line of code is an opportunity to improve, learn, and create something meaningful. I’m passionate about solving real-world problems through clean and efficient code, and I love the challenge of turning ideas into functional solutions.
 
 I’m currently looking for opportunities to apply my skills, collaborate with teams, and continue growing professionally.
 </div>
-
-## About me
-
 
 <br>
 
