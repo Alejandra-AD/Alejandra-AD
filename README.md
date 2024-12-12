@@ -11,11 +11,11 @@
 ## About me
 
 <div align = "justify">
-I´m an electrical engineer transitioning into software development. Over the past year, I’ve designed RESTful APIs with Spring Boot, managed SQL databases, and created dynamic interfaces using HTML, CSS, JavaScript, and React.
+<p>I´m an electrical engineer transitioning into software development. Over the past year, I’ve designed RESTful APIs with Spring Boot, managed SQL databases, and created dynamic interfaces using HTML, CSS, JavaScript, and React.</p>
+  
+<p>For me, every line of code is an opportunity to improve, learn, and create something meaningful. I’m passionate about solving real-world problems through clean and efficient code, and I love the challenge of turning ideas into functional solutions.</p>
 
-For me, every line of code is an opportunity to improve, learn, and create something meaningful. I’m passionate about solving real-world problems through clean and efficient code, and I love the challenge of turning ideas into functional solutions.
-
-I’m currently looking for opportunities to apply my skills, collaborate with teams, and continue growing professionally.
+<p>I’m currently looking for opportunities to apply my skills, collaborate with teams, and continue growing professionally.</p>
 </div>
 
 <br>
