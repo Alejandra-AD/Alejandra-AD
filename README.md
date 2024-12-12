@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Ale</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://aristi.dev">Ale</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/FBivsJm.png">
 
@@ -8,7 +8,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)-->
 
-## Sobre mi
+## About me
 
 
 <br>
