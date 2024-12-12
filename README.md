@@ -8,17 +8,15 @@
 
 <br>
 
-<div align="left">
-  <h2 align="center">About me</h2>
-  <ul>
-    <li>⭐ I'm from Chile 🇨🇱, an Electrical Engineer, Software Development in progress.</li>
-    <li>👩‍💻 Currently working on this page to showcase my journey and projects.</li>
-    <li>🌱 For me, every line of code is an opportunity to **improve, learn, and create something meaningful**.</li>
-    <li>🫡 Ask me about Java, Spring Boot, TypeScript, and Video Games —always happy to share!</li>
-    <li>📚 Currently studying TypeScript to strengthen my skills in modern web development.</li>
-    <li>🤝 I’m actively seeking opportunities to apply my skills, collaborate with teams, and grow professionally.</li>
-    <li>☕ A coffee enthusiast who somehow started collecting desk mice.</li>
-  </ul>
+<div align="center">
+  <!--<h2 align="center">About me</h2>-->
+  <p>⭐ I'm from <strong>Chile</strong> 🇨🇱, an <strong>Electrical Engineer</strong>, <strong>Software Development</strong> in progress.</p>
+  <p>👩‍💻 Currently working on <strong>this page</strong> to showcase my journey and projects.</p>
+  <p>🌱 For me, every line of code is an opportunity to <strong>improve, learn, and create something meaningful</strong>.</p>
+  <p>🫡 Ask me about <strong>Java, Spring Boot, TypeScript, and Video Games</strong>—always happy to share!</p>
+  <p>📚 Currently studying <strong>TypeScript</strong> to strengthen my skills in modern web development.</p>
+  <p>🤝 I’m actively seeking opportunities to apply my skills, collaborate with teams, and grow professionally.</p>
+  <p>☕ A coffee enthusiast who somehow started collecting desk mice.</p>
 </div>
 
 <br>
