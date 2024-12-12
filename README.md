@@ -11,10 +11,7 @@
 <div align="center">
   <!--<h2 align="center">About me</h2>-->
   <p>⭐ I'm from <strong>Chile</strong> 🇨🇱, an <strong>Electrical Engineer</strong>, <strong>Software Development</strong> in progress.</p>
-  <p>👩‍💻 Currently working on <strong>this page</strong> to showcase my journey and projects.</p>
   <p>🌱 For me, every line of code is an opportunity to <strong>improve, learn, and create something meaningful</strong>.</p>
-  <p>🫡 Ask me about <strong>Java, Spring Boot, TypeScript, and Video Games</strong>—always happy to share!</p>
-  <p>📚 Currently studying <strong>TypeScript</strong> to strengthen my skills in modern web development.</p>
   <p>🤝 I’m actively seeking opportunities to apply my skills, collaborate with teams, and grow professionally.</p>
   <p>☕ A coffee enthusiast who somehow started collecting desk mice.</p>
 </div>
