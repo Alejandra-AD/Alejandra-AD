@@ -6,14 +6,20 @@
 
 <img src="https://i.imgur.com/Mqyajjs.png">
 
-## About me
-- ⭐ I'm from **Chile** 🇨🇱, an **Electrical Engineer**, **Software Development** in progress.
-- 👩‍💻 Currently working on **this page** to showcase my journey and projects.
-- 🌱 For me, every line of code is an opportunity to **improve, learn, and create something meaningful**.
-- 🫡 Ask me about **Java, Spring Boot, TypeScript, and Video Games**—always happy to share!
-- 📚 Currently studying **TypeScript** to strengthen my skills in modern web development.
-- 🤝 I’m actively seeking opportunities to apply my skills, collaborate with teams, and grow professionally.
-- ☕ A coffee enthusiast who somehow started collecting desk mice.
+<br>
+
+<div align="left">
+  <h2 align="center">About me</h2>
+  <ul>
+    <li>⭐ I'm from Chile 🇨🇱, an Electrical Engineer, Software Development in progress.</li>
+    <li>👩‍💻 Currently working on this page to showcase my journey and projects.</li>
+    <li>🌱 For me, every line of code is an opportunity to **improve, learn, and create something meaningful**.</li>
+    <li>🫡 Ask me about Java, Spring Boot, TypeScript, and Video Games —always happy to share!</li>
+    <li>📚 Currently studying TypeScript to strengthen my skills in modern web development.</li>
+    <li>🤝 I’m actively seeking opportunities to apply my skills, collaborate with teams, and grow professionally.</li>
+    <li>☕ A coffee enthusiast who somehow started collecting desk mice.</li>
+  </ul>
+</div>
 
 <br>
 
