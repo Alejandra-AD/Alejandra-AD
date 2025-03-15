@@ -4,7 +4,7 @@
   </h1>
 </div>
 
-<img src="https://i.imgur.com/Mqyajjs.png">
+<!--<img src="https://i.imgur.com/Mqyajjs.png">-->
 
 <br>
 
