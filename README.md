@@ -10,10 +10,11 @@
 
 <div align="center">
   <!--<h2 align="center">About me</h2>-->
-  <p>⭐ I'm from <strong>Chile</strong> 🇨🇱, an <strong>Electrical Engineer</strong>, <strong>Software Development</strong> in progress.</p>
-  <p>🌱 For me, every line of code is an opportunity to <strong>improve, learn, and create something meaningful</strong>.</p>
-  <p>🤝 I’m actively seeking opportunities to apply my skills, collaborate with teams, and grow professionally.</p>
-  <p>☕ A coffee enthusiast who somehow started collecting desk mice.</p>
+<p>⭐ I’m from <strong>Chile</strong> 🇨🇱, an <strong>Electrical Engineer</strong> currently growing in <strong>Software Development</strong>.</p>
+<p>🌱 I see every line of code as an opportunity to <strong>learn and improve</strong>.</p>
+<p>👩‍💻 I’m actively sharpening my <strong>Frontend skills</strong>.</p>
+<p>☕ Like many, I love coffee and cats — but I’m also a proud dog lover.</p>
+
 </div>
 
 <br>
