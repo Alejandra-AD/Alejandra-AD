@@ -11,7 +11,6 @@
 <div align="center">
   <!--<h2 align="center">About me</h2>-->
 <p>⭐ I’m from <strong>Chile</strong> 🇨🇱, an <strong>Electrical Engineer</strong> currently growing in <strong>Software Development</strong>.</p>
-<p>🌱 I see every line of code as an opportunity to <strong>learn and improve</strong>.</p>
 <p>👩‍💻 I’m actively sharpening my <strong>Frontend skills</strong>.</p>
 <p>☕ Like many, I love coffee and cats — but I’m also a proud dog lover.</p>
 
