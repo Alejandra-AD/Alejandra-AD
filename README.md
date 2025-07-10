@@ -1,19 +1,17 @@
-<div align="center">
+<!--<div align="center">
   <h1 align="center">
     Hi, I'm Ale <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
   </h1>
 </div>
-
+-->
 <!--<img src="https://i.imgur.com/Mqyajjs.png">-->
 
 <br>
 
+
 <div align="center">
   <!--<h2 align="center">About me</h2>-->
-<p>⭐ I’m from <strong>Chile</strong> 🇨🇱, an <strong>Electrical Engineer</strong> currently growing in <strong>Software Development</strong>.</p>
-<p>👩‍💻 I’m actively sharpening my <strong>Frontend skills</strong>.</p>
-<p>☕ Like many, I love coffee and cats — but I’m also a proud dog lover.</p>
-
+  
 </div>
 
 <br>
